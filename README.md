@@ -72,7 +72,7 @@ Results & Insights
 
 How to Run the Project
   1. Clone the repository:
-    > git clone https://github.com/your-username/project-name.git
+    > git clone https://github.com/Princekamkar/Customer_Behavior_Analysis.git
 
   2. Install required Python libraries:
     > pip install -r requirements.txt
